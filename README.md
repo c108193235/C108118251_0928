@@ -12,11 +12,10 @@
 
 ###### Test 3
 
-Test 4 **Test 5** *Test 6
+Test 4 **Test 5** 
 
 `2021_C108118251` 👍
-# 🐛
 
 [高科大](https://www.nkust.edu.tw/)
 
-![Nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
+![Doge](https://raw.githubusercontent.com/neil96103/C108118251_0928/8629a21f35501c450ddb2f6dfd90b0162527a054/doge.jpg "Doge")
