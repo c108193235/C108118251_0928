@@ -30,3 +30,8 @@ Test 4 **Test 5**
 s = "Python code"
 print s
 ```
+**javascript**
+```js
+var s = "JavaScript code";
+alert(s);
+```
