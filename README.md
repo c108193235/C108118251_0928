@@ -21,12 +21,13 @@ Test 4 **Test 5** *Test 6*
 ![Doge](https://raw.githubusercontent.com/neil96103/C108118251_0928/8629a21f35501c450ddb2f6dfd90b0162527a054/doge.jpg "Doge")
 
 ***
-```
-測試多行區塊
-第一行
-第二行
-第三行
-```
+Emphasis, aka *italics,* with asterisks or underscores. 
+
+Strong emphasis, aka bold, with **asterisks** or **underscores.** 
+
+Combined emphasis with **asterisks and _underscores_.** 
+
+Strikethrough uses two tildes. <s>Scratch this.</s> 
 ***
 **To to list**
 - [X] Homework
@@ -48,5 +49,5 @@ alert(s);
 | Left Aligned | Center Aligned | Right Aligned |
 | :----------- | :------------: | ------------: |
 | col 3 is     | some wordy text| $1600         |
-| col 2 is     | centered       | $12           |
-| zebra stripes| are neat       | $1            |
+| col 2 is     | `centered`     | $12           |
+| zebra stripes| **are neat**   | $1            |
